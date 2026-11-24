@@ -1,0 +1,14 @@
+[
+  { "id": 1, "title": "Junior React Developer", "company": "PixelWorks", "location": "Hyderabad", "type": "Full-time", "category": "Frontend", "url": "https://www.linkedin.com/jobs" },
+  { "id": 2, "title": "Frontend Developer Intern", "company": "BrightApps", "location": "Remote", "type": "Internship", "category": "Frontend", "url": "https://www.naukri.com" },
+  { "id": 3, "title": "Node.js Backend Developer", "company": "CloudNest", "location": "Bengaluru", "type": "Full-time", "category": "Backend", "url": "https://www.linkedin.com/jobs" },
+  { "id": 4, "title": "Python Developer (Fresher)", "company": "DataBridge", "location": "Pune", "type": "Full-time", "category": "Backend", "url": "https://www.naukri.com" },
+  { "id": 5, "title": "Data Analyst Trainee", "company": "InsightIQ", "location": "Chennai", "type": "Full-time", "category": "Data", "url": "https://www.indeed.com" },
+  { "id": 6, "title": "Machine Learning Intern", "company": "NeuronLabs", "location": "Remote", "type": "Internship", "category": "Data", "url": "https://www.indeed.com" },
+  { "id": 7, "title": "QA Test Engineer", "company": "QualityFirst", "location": "Hyderabad", "type": "Full-time", "category": "Testing", "url": "https://www.naukri.com" },
+  { "id": 8, "title": "Manual Testing Intern", "company": "BugHunters", "location": "Remote", "type": "Internship", "category": "Testing", "url": "https://www.linkedin.com/jobs" },
+  { "id": 9, "title": "DevOps Engineer Trainee", "company": "PipelineOne", "location": "Bengaluru", "type": "Full-time", "category": "DevOps", "url": "https://www.indeed.com" },
+  { "id": 10, "title": "Cloud Support Associate", "company": "SkyServe", "location": "Hyderabad", "type": "Contract", "category": "DevOps", "url": "https://www.naukri.com" },
+  { "id": 11, "title": "Full Stack Developer", "company": "StackSmiths", "location": "Remote", "type": "Full-time", "category": "Frontend", "url": "https://www.linkedin.com/jobs" },
+  { "id": 12, "title": "Java Backend Developer", "company": "EnterpriseHub", "location": "Mumbai", "type": "Full-time", "category": "Backend", "url": "https://www.indeed.com" }
+]
